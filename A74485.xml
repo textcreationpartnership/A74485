@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for regulating the making of stuffs in Norfolk and Norwich. Saturday the 12th of November, 1653. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Clerk of the Parliament.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74485</idno>
+            <idno type="STC">Thomason E1062_25</idno>
+            <idno type="STC">ESTC R209423</idno>
+            <idno type="EEBO-CITATION">99868305</idno>
+            <idno type="PROQUEST">99868305</idno>
+            <idno type="VID">169163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169163)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1062[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for regulating the making of stuffs in Norfolk and Norwich. Saturday the 12th of November, 1653. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Clerk of the Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>p. [2], 179-190.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Field, Printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also issued as part of a through-paged folio set.</note>
+                  <note>Text in black letter.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Novemb 15:th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Woolen goods industry --  England --  Law and legislation --  Early works to 1800.</term>
+               <term>Norwich (England) --  Early works to 1800.</term>
+               <term>Norfolk (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="179" facs="tcp:169163:1"/>
+            <!-- PDF PAGE 65 -->
+            <head>
+               <figure>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>AN ACT For Regulating the making of STUFFS IN Norfolk and Norwich.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas divers Abuſes and De<g ref="char:EOLhyphen"/>ceits have of late years been had and uſed in the making of Wor<g ref="char:EOLhyphen"/>ſteads and other Stuffs, com<g ref="char:EOLhyphen"/>monly called <hi>Norwich Stuff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and in the Reeling of the Yarns, whereof the ſaid Stuffs are either wholly or in part made; all which tends to the debaſing of the ſaid Manufacture, unto the prejudice of the publique: For prevention of all which Abuſes and Deceits, It is Enacted by this
+<pb n="180" facs="tcp:169163:2"/>
+               <!-- PDF PAGE 66 -->preſent Parliament, That from henceforth there be and ſhall be a Corporation within the ſaid City and County of <hi>Norwich</hi> and County of <hi>Norfolk,</hi> conſiſting of two Preſidents, twelve Wardens, and forty Aſsiſtants; all which are to be Maſter-Weavers within the places aforeſaid: And one of the ſaid Preſi<g ref="char:EOLhyphen"/>dents, and ſix of the ſaid Wardens, and twen<g ref="char:EOLhyphen"/>ty of the ſaid Aſsiſtants, ſhall be yearly choſen upon the laſt Wedneſday in the moneth of <hi>No<g ref="char:EOLhyphen"/>vember</hi> at ſome publique place, by the Maſter-Weavers, or the greater part of them preſent of the ſaid city and county of <hi>Norwich;</hi> and the other of the ſaid Preſidents, ſix Wardens, and twenty Aſsiſtants, ſhall be choſen on the ſame day in ſome publique place, by the Maſter-Weavers, or the greater part of them preſent of the county of <hi>Norfolk:</hi> And the ſaid twelve Wardens reſpectively, ſhall within fourteen days after they ſhall be ſo choſen or elected, before the Major of <hi>Norwich</hi> for the time be<g ref="char:EOLhyphen"/>ing, or his Deputy, or any one Iuſtice of the Peace of the county of <hi>Norfolk</hi> for the time be<g ref="char:EOLhyphen"/>ing (if he be preſent) otherwiſe before the ſaid Major, or his Deputy onely, declare as fol<g ref="char:EOLhyphen"/>loweth;</p>
+            <p>
+               <hi>I <hi>A.B.</hi> do promiſe, That I will, under the Penalties and Forfeitures contained in this Act, well and truly perform and diſcharge the Office of a Warden of the Corporation of the Worſtead-Weavers, according to this Act, and the Rules and Orders made and to be made by the ſaid Corporation by vertue of the ſame.</hi>
+            </p>
+            <p>And be it further Enacted by the Authority aforeſaid, That the ſaid Preſidents, Wardens and Aſsiſtants for the time being, ſhall for ever hereafter in Name and Fact be one Body
+<pb n="181" facs="tcp:169163:2"/>
+               <!-- PDF PAGE 66 -->Politique and Corporate in Law, to all in<g ref="char:EOLhyphen"/>tents and purpoſes, and ſhall have a perpetu<g ref="char:EOLhyphen"/>al Succeſsion, and be called by the name of the Preſidents, Wardens and Aſsiſtants of the Worſtead-weavers of the city and county of <hi>Norwich</hi> and county of <hi>Norfolk;</hi> and ſue or plead, and be ſued or impleaded by the name aforeſaid, in all Courts and places of Iudica<g ref="char:EOLhyphen"/>ture within this Nation; and by that name ſhall and may without Licenſe in Mortmain, purchaſe, take or receive any Lands, Ten<g ref="char:EOLhyphen"/>ments or Hereditaments of the Gift, Aliena<g ref="char:EOLhyphen"/>tion, or Demiſe of any perſon or perſons, who are hereby without further Licenſe enabled to transfer the ſame, and any Goods or Chat<g ref="char:EOLhyphen"/>tels whatſoever, for the uſe and benefit of the Corporation aforeſaid, not exceeding the year<g ref="char:EOLhyphen"/>ly value of One thouſand pounds. And for the Regulation and good Government of the ſaid Trade and Manufacture, The ſaid Corporation or any Thirteen or more of them, whereof one Preſident and ſeven or more Wardens to be preſent, ſhall have hereby pow<g ref="char:EOLhyphen"/>er and authority from time to time, to meet and keep Courts for the ends in this Act mentioned, within the city of <hi>Norwich,</hi> at ſuch time and place as ſhall be appointed by the ſaid Preſidents or one of them, and Wardens or the greater number of them for the time be<g ref="char:EOLhyphen"/>ing; who are hereby required, upon the deſire of any Eight or more of the ſaid Aſsiſtants, at any time to warn and keep a Court accor<g ref="char:EOLhyphen"/>dingly: And the ſaid Corporation, or any thirteen or more of them, whereof one Preſi<g ref="char:EOLhyphen"/>dent, and ſeven or more Wardens to be pre<g ref="char:EOLhyphen"/>ſent as aforeſaid, or the greater number of them, ſhall have, and hereby have power and
+<pb n="182" facs="tcp:169163:3"/>
+               <!-- PDF PAGE 67 -->authority from time to time, to make and ap<g ref="char:EOLhyphen"/>point a common Seal, or ſeveral common Seals, for the uſe of the ſaid Corporation; and to make By-laws, Rules and Ordinan<g ref="char:EOLhyphen"/>ces for and concerning the Regulation of the premiſes, and of ſuch particulars as ſhall be by them, or the greater number of them, found requiſite for the better regulation of the ſaid Trade and Manufacture, and the due execu<g ref="char:EOLhyphen"/>tion of this Act; which By-laws, Rules and Ordinances being confirmed and ratified by the Major, and one Iuſtice of the Peace for the time being of the ſaid city and county of <hi>Norwich,</hi> and two other Iuſtices of the Peace of the ſaid county of <hi>Norfolk,</hi> or the greater number of them, ſhall be obeyed and kept by the ſeveral perſons within or under the Go<g ref="char:EOLhyphen"/>vernment of the ſaid Corporation or Regula<g ref="char:EOLhyphen"/>tion. And the ſaid Court have hereby power to impoſe a Fine or Penalty upon any perſon or perſons of the ſaid Corporation, that ſhall not conform to ſuch Rules, Orders and Ordi<g ref="char:EOLhyphen"/>nances ſo made as aforeſaid: Provided, the ſaid Fine or Penalty on any perſon for not conforming, exceed not the ſum of ten ſhillings for one Offence; the ſaid Fines and Penal<g ref="char:EOLhyphen"/>ties to go to the uſe of the ſaid Corporation.</p>
+            <p>And it is further Enacted, That the Wea<g ref="char:EOLhyphen"/>vers of the ſaid Corporation that are within the City and County of <hi>Norwich,</hi> ſhall from time to time give notice unto the Weavers of the ſaid County of <hi>Norfolk,</hi> of the time and place, when and where they ſhall intend to conſider of the making of any By-Laws, Or<g ref="char:EOLhyphen"/>ders, or Ordinances as aforeſaid, by Publica<g ref="char:EOLhyphen"/>tion of ſuch their purpoſe and intent to their open Court, Fifteen days at leaſt before
+<pb n="183" facs="tcp:169163:3"/>
+               <!-- PDF PAGE 67 -->they ſhall proceed to make the ſame.</p>
+            <p>And it is further Enacted, That if any per<g ref="char:EOLhyphen"/>ſon or perſons ſhall be duly choſen as above-ſaid, to be a Warden or Wardens of the ſaid Corporation, and after ſuch election and due notice thereof given him or them, he or they ſhall refuſe or wilfully neglect to undergo and execute the place and duty of a Warden or Wardens according to the purport of this Act, ſuch perſon or perſons ſo refuſing or neglect<g ref="char:EOLhyphen"/>ing, ſhall each of them have a Fine impoſed on them by the ſaid Corporation, the ſaid Fine not exceeding Ten pounds; the ſaid Fine to go to the uſe of the Corporation.</p>
+            <p>And for the better Regulation and carry<g ref="char:EOLhyphen"/>ing on of the Work aforeſaid, and avoiding of all Frauds and Deceits therein, Be it fur<g ref="char:EOLhyphen"/>ther Enacted by the Authority aforeſaid, That all Yarns called Worſtead-yarns, or uſed by the Worſtead-weavers, ſhall be made without fraud, and ſhall before the ſame be put or of<g ref="char:EOLhyphen"/>fered to ſale, be reeled on a Reel of a full yard about, every Reel-ſtaff containing Fourteen Leas, and every Lea containing Forty thrids. Twelve of thoſe Reel-ſtaves making a Do<g ref="char:EOLhyphen"/>zen, and Twelve of thoſe Dozens making a Groſs: And in caſe any perſon or perſons ſhall after offer to put to ſale any the Yarns aforeſaid within the City of <hi>Norwich</hi> or Coun<g ref="char:EOLhyphen"/>ty of <hi>Norfolk,</hi> made and reeled in any other ma<g ref="char:EOLhyphen"/>ner then as aforeſaid, that then it ſhall and may be lawful to and for the Preſidents, War<g ref="char:EOLhyphen"/>dens and Aſsiſtants aforeſaid, or any two or more of them, to ſeize, take and carry away all ſuch Yarn as is defective and falſe as a<g ref="char:EOLhyphen"/>boveſaid; The ſame to be within Eight days after ſuch ſeizure, brought into the Common-Hall
+<pb n="184" facs="tcp:169163:4"/>
+               <!-- PDF PAGE 68 -->of the Corporation aforeſaid; and within Twenty days after ſuch ſeizure, to be brought to a Trial by a Iury of Twelve honeſt and able Artificers of the ſame Regulation, where<g ref="char:EOLhyphen"/>of Six to be of the City and County of <hi>Nor<g ref="char:EOLhyphen"/>wich,</hi> and other Six of the County of <hi>Norfolk;</hi> which Twelve Artificers, the Major of the City of <hi>Norwich</hi> or his Deputy for the time be<g ref="char:EOLhyphen"/>ing, are hereby authorized to ſummon and warn to appear at the <hi>Guild-hall</hi> of the ſaid Ci<g ref="char:EOLhyphen"/>ty at time certain by him to be appointed, and to be impannelled and ſworn to enquire of the Defects of the ſaid Yarn, contrary to this pre<g ref="char:EOLhyphen"/>ſent Act, which Oath the ſaid Major or his Deputy are hereby authorized to give: And for ſuch and ſo much Yarn aforeſaid as ſhall be ſo found, and preſented by the ſaid Iury to be Defective, the ſaid Iury ſhall have, and hereby have power to ſet and impoſe ſuch Fine or Fines upon the Owners thereof, as in their diſcretion ſhall be thought meet, not exceeding the value of the Moyety of ſuch Defective Yarns; which ſaid Fines the Owners of the ſaid reſpective Yarns ſhall pay unto the War<g ref="char:EOLhyphen"/>dens of the ſaid Corporation or one of them, to and for the uſe of the Poor of the ſaid Cor<g ref="char:EOLhyphen"/>poration, within Forty days after the ſame Fine ſhall be ſo ſet; or in default thereof, the ſaid Wardens ſhall put to ſale the ſaid Yarns, rendring the overplus to be raiſed by ſale thereof unto the ſaid Owners upon de<g ref="char:EOLhyphen"/>mand.</p>
+            <p>And it is hereby further Enacted and Or<g ref="char:EOLhyphen"/>dained, That if the ſaid Yarn ſhall not be pre<g ref="char:EOLhyphen"/>ſented and found by a Iury of Twelve men as aforeſaid to be defective as aforeſaid, ſo as the ſame ſhall appear to be ſeized without juſt
+<pb n="185" facs="tcp:169163:4"/>
+               <!-- PDF PAGE 68 -->cauſe as aforeſaid, That then he orthey that ſhall ſo ſeize the ſame, ſhall forfeit to the owner or owners of the Yarn ſo ſeized, the treble va<g ref="char:EOLhyphen"/>lue of the Yarn ſo ſeized, and three times ſo much damages as he or they ſhall and may ſuſtain by ſuch ſeizure, or by means or reaſon thereof; the ſame to be adjudged and taxed by the Major of the ſaid City of <hi>Norwich</hi> or his Deputy for the time being, and be levied by ſale of the Offenders goods, by warrant un<g ref="char:EOLhyphen"/>der the hand and ſeal of the Major of the Ci<g ref="char:EOLhyphen"/>ty of <hi>Norwich</hi> or his Deputy for the time being, if ſuch ſeizure ſhall be made within the ſaid City of <hi>Norwich</hi> or County of the ſame: And if ſuch ſeizure ſhall be made within the Coun<g ref="char:EOLhyphen"/>ty of <hi>Norfolk,</hi> the ſame to be adjudged and tax<g ref="char:EOLhyphen"/>ed by any one or more Iuſtices of the Peace within the ſaid County of <hi>Norfolk,</hi> and to be levied by Warrant under the hand and ſeal of any one or more ſuch Iuſtice or Iuſtices of the Peace of the ſaid County of <hi>Norfolk.</hi>
+            </p>
+            <p>And it is hereby further Enacted, That all ſorts of Stuffs, whether woven of Wool onely, or of Wool and other materials within the City and County of <hi>Norwich</hi> and County of <hi>Norfolk,</hi> or either of them, ſhall be under the Power, Government and Regulation of the ſaid Corporation, in ſuch maner as by this and other Acts of Parliament, and the By-Laws made and to be made by vertue hereof, are or ſhall be eſtabliſhed (Except ſuch Stuffs as are under the Regulation of the Wardens and Fellowſhip of the Myſtery of Ruſſel-Sattins, Sattins-Reverſees, and Fuſtian of <hi>Norwich</hi> making, within the ſaid City of <hi>Nor<g ref="char:EOLhyphen"/>wich;</hi>) And that all Stuffs made or to be
+<pb n="186" facs="tcp:169163:5"/>
+               <!-- PDF PAGE 69 -->made under the Regulation aforeſaid, before the ſame ſhall be offered or put to ſale, ſhall be brought to ſome convenient place within the ſaid County of the City of <hi>Norwich,</hi> to be ap<g ref="char:EOLhyphen"/>pointed by the ſaid Wardens or the more part of them, to be viewed and ſearched by the ſaid Wardens or any two of them; And if the ſame ſhall be found to be well and ſufficiently made and wrought according to the Rules and Ordinances of the ſaid Corporation for the time being, Then all ſuch Stuffs ſhall be by the ſaid Wardens or any two of them, ſeal<g ref="char:EOLhyphen"/>ed and alowed accordingly, without any ſum of moneys paid or to be paid for the ſame: And if upon ſearch or view thereof, any ſuch Stuffs ſhall be found and appear to be de<g ref="char:EOLhyphen"/>fective contrary to the Rules and Ordinan<g ref="char:EOLhyphen"/>ces of the ſaid Corporation, Then ſuch de<g ref="char:EOLhyphen"/>fective Stuffs ſhall be ſeized by the ſaid War<g ref="char:EOLhyphen"/>dens or any two of them, and ſhall be from time to time Ordered and brought to Trial, proceeded on, and fined in ſuch maner and form as is in this preſent Act before limit<g ref="char:EOLhyphen"/>ed and appointed for the defective Yarns a<g ref="char:EOLhyphen"/>foreſaid.</p>
+            <p>And it is further Enacted, That if any Warden or Wardens ſhall at any time ſeal or cauſe to be ſealed any Stuffs made under this Regulation, which ſhall afterwards be diſ<g ref="char:EOLhyphen"/>covered by any perſon to be defective, and found ſo to be by a Iury impanneled as afore<g ref="char:EOLhyphen"/>ſaid, The ſaid Iury ſhall have, and hereby have power to ſet and impoſe a Fine upon the Wardens of the ſaid Corporation for every ſuch defective piece ſo ſealed, as they in their diſcretion ſhall think fit, the ſaid Fine not ex<g ref="char:EOLhyphen"/>ceeding
+<pb n="187" facs="tcp:169163:5"/>
+               <!-- PDF PAGE 69 -->Forty ſhillings, the ſame to be divi<g ref="char:EOLhyphen"/>ded into three equal parts; One third part whereof to go to the uſe of the Informer, another third part to the Corporation, and the other third part to the uſe of the Poor of the ſaid Corporation. Provided, That if the ſaid Wardens ſhall be unjuſtly moleſted, and that ſuch Stuffs upon trial ſhall be found by the Iury to be good and duly made, the perſon or perſons ſo cauſeleſly moleſting, ſhall pay to the ſaid Wardens ſo unjuſtly moleſted, treble the damages they ſhall or may ſuſtain by ſuch moleſtation, the ſaid forfeitures and damages to be adjudged and taxed by the Ma<g ref="char:EOLhyphen"/>jor of the city of <hi>Norwich,</hi> or any one or more of the Iuſtices of the Peace of the county of <hi>Norfolk</hi> reſpectively as aforeſaid; And if any perſon ſhall buy or ſell any piece of Stuff made under the regulation of this Corpora<g ref="char:EOLhyphen"/>tion unſealed, and being thereof convicted by his own confeſsion, or the oaths of two or more witneſſes before the Major of the ſaid city of <hi>Norwich,</hi> or his Deputy for the time be<g ref="char:EOLhyphen"/>ing, or before any Iuſtice of the Peace for the time being for the county of <hi>Norfolk,</hi> who have hereby power to adminiſter an Oath for that purpoſe; the ſaid perſon, if he be a buyer, ſhall forfeit for every piece of Stuff ſo bought unſealed, Four ſhillings,; and if a ſeller, for every piece ſo ſold, ſhall forfeit other Four ſhillings, the ſame to be divided into equal halfs, one moyety whereof ſhall go to the uſe of the Corporation aforeſaid, and the other moyety to the uſe of the poor of the ſaid Cor<g ref="char:EOLhyphen"/>poration: And if any Stuff made under the ſaid Regulation, ſhall be found in the poſſeſ<g ref="char:EOLhyphen"/>ſion
+<pb n="188" facs="tcp:169163:6"/>
+               <!-- PDF PAGE 70 -->of any perſon or perſons (except of the firſt Owner or Maker thereof) the perſon and perſons in whoſe cuſtody the ſame ſhall be ſo found, ſhall be adjudged guilty of deceit, and ſhall be lyable unto the payment of the Fines and Forfeitures payable by this Act, both from the Seller and Buyer of Stuff un<g ref="char:EOLhyphen"/>ſealed as foreſaid: And if any perſon coun<g ref="char:EOLhyphen"/>terfeit any Seal of the ſaid Wardens, or ſeal any piece of Stuff with any ſeal that ſhall be counterfeit, every perſon ſo offending, and being thereof convicted as aforeſaid, ſhall for<g ref="char:EOLhyphen"/>feit the ſum of Twenty pounds to and for the uſe of the poor of the ſaid Corporation; which ſaid Penalties and Forfeitures reſpectively, with all other Fines and Forfeitures men<g ref="char:EOLhyphen"/>tioned in this Act, ſhall be levied by Diſtreſs and Sale of the Goods and Chattels of the Offender or Offenders, by Warrant to be granted from the ſaid Major or Iuſtice of Peace reſpectively, before whom ſuch convi<g ref="char:EOLhyphen"/>ction ſhall be, rendring the Overplus to the Owner or Owners thereof; and for default of Goods and Chattels whereon to levy the ſaid Forfeiture of Twenty pounds, the party ſo offending ſhall be committed to the pub<g ref="char:EOLhyphen"/>lique Work-houſe, there to be continued at hard labor during the ſpace of three Moneths, unleſs he ſhall at any time within the ſaid term pay the Forfeiture of Twenty pounds as aforeſaid: And the ſaid Preſidents, War<g ref="char:EOLhyphen"/>dens and Aſsiſtants, or any two or more of them ſhall have, and hereby have power to en<g ref="char:EOLhyphen"/>ter into the houſe and work-houſe of any Ar<g ref="char:EOLhyphen"/>tificer witin the ſaid City of <hi>Norwich</hi> and county of <hi>Norfolk,</hi> under the Regulation of
+<pb n="189" facs="tcp:169163:6"/>
+               <!-- PDF PAGE 70 -->the ſaid Corporation, at all times of the day, and uſual times of working and opening of Shops, and into the Shops, Houſes and Ware-houſes of any Merchant, common Buyer, Dealer in, and Retayler of any the ſaid Stuffs; and into the Houſes or Work-houſes of any Dyer, Sheerman, Calender, and all other workmens houſes and places of ſale, or dreſsing of y<hi rend="sup">e</hi> ſaid Stuffs, or ſelling of yarns, and may there ſearch and view the Yarn and Stuffs reſpectively, whether they be or<g ref="char:EOLhyphen"/>dered and made according to the Laws, Or<g ref="char:EOLhyphen"/>ders and Ordinances of the ſaid Trade: And if any Stuff or Materials aforeſaid ſhall be found faulty or defective, to ſeize, take and carry away the ſame, to be ordered, brought to tryal, and proceeded in maner and form as is before in this Act mentioned and appoint<g ref="char:EOLhyphen"/>ed for defective Yarns and Stuffs. And all Majors, Iuſtices, Sheriffs, Bayliffs, Con<g ref="char:EOLhyphen"/>ſtables and Officers ſhall be aiding and aſsiſt<g ref="char:EOLhyphen"/>ing to the ſaid Preſidents, Wardens and Aſ<g ref="char:EOLhyphen"/>ſiſtants or any of them, as often as they ſhall be thereunto required; and in all Actions or Suits that ſhall be brought againſt any per<g ref="char:EOLhyphen"/>ſon or perſons for any acting according to the true intent and meaning of this Act, that ſuch perſon or perſons ſhall or may plead the general Iſſue of <hi>Not guilty,</hi> and give the ſpe<g ref="char:EOLhyphen"/>cial Matter in Evidence, and ſhall recover double Coſts, if the Verdict paſs or fhim and them, or that the Plaintiff or Plaintiffs be non-ſuited.</p>
+            <p>Provided always, That this Act, nor any thing therein contained, ſhall not be prejudi<g ref="char:EOLhyphen"/>cial
+<pb n="190" facs="tcp:169163:7"/>
+               <!-- PDF PAGE 71 -->or hurtful to the Weavers of the Towns of <hi>Great Yarmouth</hi> and <hi>Lyn</hi> in the ſaid county of <hi>Norfolk,</hi> or either of them, to deprive them or either of them of ſuch Liberties or Privi<g ref="char:EOLhyphen"/>ledges as are granted unto them by an Act of Parliament made in the Fourteenth year of the Reign of King <hi>Henry</hi> the Eighth, or by any other Act of Parliament whatſoever.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Saturday the 12. of <hi>November,</hi> 1653.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Clerk of the Parliament.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
